@@ -14,7 +14,7 @@ Aspiring Software Developer and first-year computer science student. I am eager 
 ⚡ Fun fact I run on coffee.
 
 Connect with me:
-arcsh7 https://www.linkedin.com/in/archit-sharma-193b4922a ArchitSharma7#8088
+ https://www.linkedin.com/in/vishal-birla-587235187/ 
 
 Languages and Tools:
 bootstrap css3 dart firebase flutter git html5 javascript python react redux
