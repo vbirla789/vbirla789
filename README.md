@@ -17,4 +17,4 @@ Connect with me:
  https://www.linkedin.com/in/vishal-birla-587235187/ 
 
 Languages and Tools:
-bootstrap css3 dart firebase flutter git html5 javascript python react redux
+bootstrap css3 firebase git html5 javascript react redux
